@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{51710F0F-CF7B-4214-B24A-211F1FB5B06A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Myauth/Services/tokenservice.cs">
+    <Files>
+      <File FileName="Myauth/Interface/Itokenservice.cs" />
+      <File FileName="Myauth/Services/tokenservice.cs" Line="37" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Myauth" expanded="True">
+            <Node name="Myauth" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="tokenservice.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Myauth PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
